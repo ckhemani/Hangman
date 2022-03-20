@@ -51,6 +51,8 @@ public class Hangman {
         }
         return randomStrings;
     }
+
+//    https://www.geeksforgeeks.org/generate-random-string-of-given-size-in-java/
     // Java program generate a random AlphaNumeric String
 // using Regular Expressions method
 
